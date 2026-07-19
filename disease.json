@@ -1,0 +1,22 @@
+[
+  {
+    "disease": "Foot-and-Mouth Disease",
+    "species": ["cattle", "pig", "sheep", "goat"],
+    "symptoms": ["fever", "blisters on mouth", "blisters on feet", "excessive drooling", "lameness"]
+  },
+  {
+    "disease": "African Swine Fever",
+    "species": ["pig"],
+    "symptoms": ["high fever", "loss of appetite", "red blotchy skin", "sudden death"]
+  },
+  {
+    "disease": "Avian Influenza",
+    "species": ["poultry", "chicken", "duck"],
+    "symptoms": ["sudden death", "swollen head", "coughing", "drop in egg production"]
+  },
+  {
+    "disease": "Anthrax",
+    "species": ["cattle", "sheep", "goat"],
+    "symptoms": ["sudden death", "bleeding from orifices", "high fever"]
+  }
+]
